@@ -2,6 +2,13 @@
 
 ## **Introduction**
 
+<p align="center">
+
+<img alt="Demo" src="../.data/ML-DL-Fall2024-ProjectVideo.gif">
+<br>Demo Video<br>
+
+</p>
+
 ### **Background**
 
 Autonomous navigation in dynamic environments is a significant challenge for robotics and AI, with applications in self-driving vehicles, delivery drones, and robotic exploration. Traditional Reinforcement Learning (RL) approaches require carefully designed reward functions and extensive labeled data, which can lead to undesired behaviors and hinder scalability.
@@ -41,6 +48,13 @@ The dataset is preprocessed to align multi-modal inputs, making it suitable for 
 ---
 
 ### **Architecture and Training**
+
+<p align="center">
+
+<img alt="System Overview" src="../.data/Project-Overview.png">
+<br>System Overview<br>
+
+</p>
 
 #### Observational Temporal Encoder Architecture -
 
